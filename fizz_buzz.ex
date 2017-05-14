@@ -29,5 +29,3 @@ defmodule FizzBuzz do
   end
 
 end
-
-Mod.stream_fizzbuzz(100)
